@@ -183,4 +183,3 @@ Gui.Destroying:Connect(function()
 end)
 
 print("Steal A Brainrot UI loaded!")
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Zyro-H/SAB/refs/heads/main/Script"))()
